@@ -23,3 +23,28 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+
+  push-to-gitcode:
+    name: Push to GitCode
+    runs-on: ubuntu-latest
+    needs: update-readme
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push to GitCode
+        env:
+          GITCODE_TOKEN: ${{ secrets.GITCODE_TOKEN }}
+          GITCODE_USER: yuantao_
+          GITCODE_REPO: yuantao_
+        run: |
+          git remote add gitcode https://oauth2:${GITCODE_TOKEN}@gitcode.com/${GITCODE_USER}/${GITCODE_REPO}.git
+          git push -f gitcode HEAD:main
