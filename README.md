@@ -17,29 +17,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-Markdown                 6 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-C++                      5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-C                        2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Groovy                   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Python                   8 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+C++                      5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Markdown                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+C                        3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Groovy                   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-Vscodium                 21 hrs 20 mins      █████████████████░░░░░░░░   66.41 % 
-VS Code                  6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Codex CLI                4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Vscodium                 20 hrs 45 mins      ███████████████████░░░░░░   75.66 % 
+VS Code                  6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Codex CLI                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-catlass_for_pytest       14 hrs 18 mins      ███████████░░░░░░░░░░░░░░   44.51 % 
-gitcode-naive-ci         6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-gitcode-ci-watcher       5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-catlass_dev_ci           2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-catlass_for_dsl_ci       1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+catlass_for_pytest       14 hrs 32 mins      █████████████░░░░░░░░░░░░   52.98 % 
+gitcode-naive-ci         4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+catlass_dev_ci           2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+catlass_for_dsl          1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+gitcode-ci-watcher       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Linux                    26 hrs 8 mins       ████████████████████░░░░░   81.37 % 
-Mac                      5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Linux                    25 hrs 34 mins      ███████████████████████░░   93.22 % 
+Mac                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
- Last Updated on 08/06/2026 02:56:29 UTC
+ Last Updated on 09/06/2026 02:33:45 UTC
 <!--END_SECTION:waka-->
