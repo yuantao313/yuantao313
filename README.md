@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,30 +17,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      11 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   40.82 % 
-C                        3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Markdown                 3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Python                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+C++                      8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
+Python                   3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Other                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+C                        1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-Vscodium                 19 hrs 40 mins      ██████████████████░░░░░░░   70.35 % 
-VS Code                  5 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Claude Code              2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Vscodium                 12 hrs 38 mins      ███████████████░░░░░░░░░░   61.65 % 
+Claude Code              4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+VS Code                  3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
 
 🐱‍💻 Projects: 
-catlass_for_pytest       16 hrs 16 mins      ███████████████░░░░░░░░░░   58.20 % 
-notes                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-catlass_for_dsl_ci       2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-yuantao                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-catlass                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+catlass_for_pytest       11 hrs 54 mins      ███████████████░░░░░░░░░░   58.04 % 
+notes                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+yuantao                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+catlass_for_dsl          1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+catlass                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 Operating System: 
-Linux                    21 hrs 32 mins      ███████████████████░░░░░░   77.04 % 
-Mac                      6 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Linux                    14 hrs 37 mins      ██████████████████░░░░░░░   71.27 % 
+Mac                      5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 18/06/2026 02:55:57 UTC
+ Last Updated on 19/06/2026 03:41:44 UTC
 <!--END_SECTION:waka-->
