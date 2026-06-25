@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,28 +17,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 10 mins       ███████████████░░░░░░░░░░   60.26 % 
-Bash                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-CMake                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python                   5 hrs 10 mins       █████████████████░░░░░░░░   66.24 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+CMake                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 38 mins       ████████████████░░░░░░░░░   65.69 % 
-Claude Code              1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Vscodium                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+VS Code                  5 hrs 34 mins       ██████████████████░░░░░░░   71.22 % 
+Claude Code              1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Vscodium                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 
 🐱‍💻 Projects: 
-catlass_for_pytest       6 hrs 55 mins       ████████████████████░░░░░   80.63 % 
-yuantao                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-notes                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-myblog                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+catlass_for_pytest       6 hrs 55 mins       ██████████████████████░░░   88.62 % 
+yuantao                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+myblog                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Linux                    7 hrs 17 mins       █████████████████████░░░░   84.76 % 
-Mac                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Linux                    7 hrs 17 mins       ███████████████████████░░   93.17 % 
+Mac                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 
- Last Updated on 24/06/2026 02:40:14 UTC
+ Last Updated on 25/06/2026 02:41:05 UTC
 <!--END_SECTION:waka-->
