@@ -4,10 +4,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1117 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-🌆 Daytime                1612 commits        ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌃 Evening                1232 commits        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌙 Night                  1174 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+🌞 Morning                1145 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌆 Daytime                1648 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌃 Evening                1236 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌙 Night                  1175 commits        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
 ```
 
 
@@ -17,27 +17,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
-Python                   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-TableGen                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+C++                      49 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
+TableGen                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Python                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+C                        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knowledge_base           1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.28 % 
-catlass_docs             1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   31.87 % 
-catlass_for_pytest       26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-catlass_for_dsl          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-catlass                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+catlass_for_dsl          1 hr 38 mins        ██████████████████░░░░░░░   71.52 % 
+catlass_for_pytest       26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+catlass_docs             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+catlass                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+ip                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-Windows                  3 hrs 10 mins       ████████████████████░░░░░   79.60 % 
-Linux                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Linux                    2 hrs 5 mins        ███████████████████████░░   90.83 % 
+Windows                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 
- Last Updated on 04/07/2026 02:14:30 UTC
+ Last Updated on 05/07/2026 02:29:03 UTC
 <!--END_SECTION:waka-->
