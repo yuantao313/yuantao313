@@ -4,9 +4,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                775 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+🌞 Morning                776 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 🌆 Daytime                1177 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
 🌙 Night                  1174 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
 ```
 
@@ -17,26 +17,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████░░░░░░░░░░░░░   49.24 % 
-YAML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python                   3 hrs 56 mins       ██████████████░░░░░░░░░░░   57.42 % 
+Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+TOML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████░░░░░░░░░░░░   50.99 % 
+Codex CLI                3 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.99 % 
+Vscodium                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-catlass-test-scripts     13 mins             ████████████░░░░░░░░░░░░░   49.24 % 
-catlass                  9 mins              ████████░░░░░░░░░░░░░░░░░   32.83 % 
-ip                       3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-catlass_docs             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+gitcode_cann_launcher    3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.44 % 
+atomcode-proxy           2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+yuantao                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+catlass-test-scripts     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+notes                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████░░░░░░░░░░░░   50.76 % 
-Linux                    13 mins             ████████████░░░░░░░░░░░░░   49.24 % 
+Mac                      6 hrs 22 mins       ███████████████████████░░   92.74 % 
+Linux                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
- Last Updated on 08/07/2026 02:03:21 UTC
+ Last Updated on 09/07/2026 02:15:44 UTC
 <!--END_SECTION:waka-->
