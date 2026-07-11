@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%203%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -17,30 +17,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 56 mins       ██████████████░░░░░░░░░░░   54.52 % 
-Markdown                 2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-C++                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-TOML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   8 hrs 47 mins       █████████████░░░░░░░░░░░░   50.13 % 
+Markdown                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+C++                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+TOML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 6 mins        ██████████████░░░░░░░░░░░   55.82 % 
-VS Code                  5 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.54 % 
-Vscodium                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Codex CLI                10 hrs 6 mins       ██████████████░░░░░░░░░░░   57.67 % 
+VS Code                  6 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
+Vscodium                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🐱‍💻 Projects: 
-gitcode_cann_launcher    8 hrs 25 mins       █████████████████░░░░░░░░   66.15 % 
-atomcode-proxy           2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-ops-math                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-catlass-test-scripts     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-catlass                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+gitcode_cann_launcher    11 hrs 54 mins      █████████████████░░░░░░░░   67.99 % 
+ops-math                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+atomcode-proxy           2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+catlass-test-scripts     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+yuantao                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Mac                      10 hrs 35 mins      █████████████████████░░░░   83.15 % 
-Linux                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Mac                      14 hrs 12 mins      ████████████████████░░░░░   81.10 % 
+Linux                    3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 
- Last Updated on 10/07/2026 02:15:58 UTC
+ Last Updated on 11/07/2026 02:01:29 UTC
 <!--END_SECTION:waka-->
