@@ -15,27 +15,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Docker                   4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Bash                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Groovy                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Docker                   3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Markdown                 3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Python                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Groovy                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 13 mins      ██████████████████████░░░   86.41 % 
-Codex CLI                2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+VS Code                  12 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-catlass_for_dsl_ci       13 hrs 51 mins      ███████████████████████░░   90.59 % 
-AscendNPU-IR             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-catlass                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+catlass_for_dsl_ci       11 hrs 11 mins      ██████████████████████░░░   89.10 % 
+gitcode_scripot          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+catlass                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+AscendNPU-IR             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Linux                    13 hrs 53 mins      ███████████████████████░░   90.74 % 
-Mac                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Linux                    11 hrs 40 mins      ███████████████████████░░   92.90 % 
+Mac                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
- Last Updated on 24/07/2026 02:03:15 UTC
+ Last Updated on 25/07/2026 02:02:41 UTC
 <!--END_SECTION:waka-->
