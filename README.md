@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-723%20hrs%2028%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                786 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-🌆 Daytime                1177 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-🌙 Night                  1176 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌞 Morning                787 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+🌆 Daytime                1187 commits        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌙 Night                  1176 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
 ```
 
 
@@ -17,29 +17,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Python                   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Docker                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Bash                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Groovy                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 7 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
+Python                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Bash                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Docker                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Groovy                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 53 mins      █████████████████████████   98.36 % 
-Codex CLI                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+VS Code                  17 hrs 25 mins      ██████████████████████░░░   89.60 % 
+Codex CLI                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 
 🐱‍💻 Projects: 
-catlass_for_dsl_ci       8 hrs 13 mins       ██████████████░░░░░░░░░░░   54.30 % 
-catlass                  4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-gitcode_scripot          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-AscendNPU-IR             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+catlass                  8 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.76 % 
+catlass_for_dsl_ci       8 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.26 % 
+gitcode_scripot          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+AscendNPU-IR             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+AscendNPU-IR-Build       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Linux                    13 hrs 55 mins      ███████████████████████░░   91.99 % 
-Mac                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Linux                    14 hrs 55 mins      ███████████████████░░░░░░   76.76 % 
+Mac                      4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 
- Last Updated on 26/07/2026 02:07:53 UTC
+ Last Updated on 27/07/2026 02:14:40 UTC
 <!--END_SECTION:waka-->
