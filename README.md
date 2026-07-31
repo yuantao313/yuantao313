@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-177%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                790 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-🌆 Daytime                1187 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌃 Evening                1155 commits        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-🌙 Night                  1176 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+🌞 Morning                813 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+🌆 Daytime                1212 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌃 Evening                1161 commits        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌙 Night                  1176 commits        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
 ```
 
 
@@ -19,51 +19,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
-Markdown                 5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Bash                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-CMake                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Python                   7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Markdown                 7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Bash                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+CMake                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 25 mins      █████████████████░░░░░░░░   68.75 % 
-Codex CLI                5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.25 % 
+VS Code                  13 hrs 19 mins      ██████████████░░░░░░░░░░░   56.28 % 
+Codex CLI                10 hrs 20 mins      ███████████░░░░░░░░░░░░░░   43.72 % 
 
 🐱‍💻 Projects: 
-catlass                  14 hrs 59 mins      █████████████████████░░░░   82.94 % 
-gitcode_scripot          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-AscendNPU-IR             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-AscendNPU-IR-Build       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+catlass                  15 hrs 55 mins      █████████████████░░░░░░░░   67.25 % 
+catlass_doc              3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+gitcode_scripot          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+AscendNPU-IR             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+tmp                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Linux                    13 hrs 19 mins      ██████████████████░░░░░░░   73.74 % 
-Mac                      4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Linux                    18 hrs 17 mins      ███████████████████░░░░░░   77.29 % 
+Mac                      5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 43 mins (42.72%)
+⏱ AI Coding Time: 13 hrs 21 mins (56.41%)
 
-✍️ 3,907 lines written by AI, 2,224 lines written by hand (63.73% AI-written)
+✍️ 9,237 lines written by AI, 2,317 lines written by hand (79.95% AI-written)
 
-🔤 101,628,228 Input Tokens, 451,406 Output Tokens
+🔤 205,269,140 Input Tokens, 879,039 Output Tokens
 
-💵 $521.68 Estimated AI Cost This Week
+💵 $1052.72 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 106 AI Prompts
+🧠 11 AI Sessions, 162 AI Prompts
 
-GPT                      4,921 lines         █████████████████████████   100.00 % 
+GPT                      10,541 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.73% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 41.48% of changed lines were hand-edited
+🤖 AI-Driven — 79.95% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 25.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 01:51:52 UTC
+ Last Updated on 31/07/2026 02:08:55 UTC
 <!--END_SECTION:waka-->
