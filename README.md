@@ -1,15 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2027%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                817 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌆 Daytime                1212 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌃 Evening                1161 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌙 Night                  1176 commits        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+🌞 Morning                818 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+🌆 Daytime                1215 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌃 Evening                1163 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+🌙 Night                  1176 commits        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
 ```
 
 
@@ -19,50 +15,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.28 % 
-Python                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 5 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
+Go                       1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Python                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        ███████████████░░░░░░░░░░   60.87 % 
-Codex CLI                5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
+VS Code                  8 hrs 48 mins       ██████████████████░░░░░░░   71.37 % 
+Codex CLI                3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
 
 🐱‍💻 Projects: 
-catlass                  5 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
-catlass_doc              4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
-genshin-skills           1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-tmp                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-triton-ascend            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+catlass                  4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+online_accept            2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+catlass_for_dsl_ci       1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+genshin-skills           1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+catlass_doc              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 💻 Operating System: 
-Linux                    12 hrs 26 mins      ███████████████████████░░   93.50 % 
-Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Linux                    12 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 23 mins (48.0%)
+⏱ AI Coding Time: 3 hrs 57 mins (32.08%)
 
-✍️ 5,336 lines written by AI, 2,142 lines written by hand (71.36% AI-written)
+✍️ 6,293 lines written by AI, 2,553 lines written by hand (71.14% AI-written)
 
-🔤 115,861,576 Input Tokens, 472,549 Output Tokens
+🔤 70,855,954 Input Tokens, 284,973 Output Tokens
 
-💵 $593.48 Estimated AI Cost This Week
+💵 $386.36 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 126 AI Prompts
+🧠 3 AI Sessions, 62 AI Prompts
 
-GPT                      5,626 lines         █████████████████████████   100.00 % 
+GPT                      6,421 lines         █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.36% of written lines came from AI
-📝 Concise Prompter — average 66 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 33.67% of changed lines were hand-edited
+🤖 AI-Driven — 71.14% of written lines came from AI
+📝 Concise Prompter — average 48 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 33.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/08/2026 01:57:10 UTC
+ Last Updated on 07/08/2026 02:20:19 UTC
 <!--END_SECTION:waka-->
