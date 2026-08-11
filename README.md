@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2045%20mins-blue?style=flat)
 
@@ -19,34 +19,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.60 % 
-Go                       3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Python                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+Go                       3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Other                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 50 mins      ███████████████░░░░░░░░░░   60.18 % 
-Codex CLI                7 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
+VS Code                  9 hrs 40 mins       ██████████████░░░░░░░░░░░   57.40 % 
+Codex CLI                7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
 
 🐱‍💻 Projects: 
-online_accept            6 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.39 % 
-catlass                  4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-catlass_for_dsl_ci       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-genshin-skills           1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-user_apply_system        1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+online_accept            6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+catlass                  3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+catlass_for_dsl_ci       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+genshin-skills           1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+user_apply_system        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 💻 Operating System: 
-Linux                    16 hrs 14 mins      ███████████████████████░░   90.16 % 
-Mac                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Linux                    14 hrs 56 mins      ██████████████████████░░░   88.76 % 
+Mac                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (47.75%)
+⏱ AI Coding Time: 8 hrs 36 mins (51.08%)
 
-✍️ 9,226 lines written by AI, 2,756 lines written by hand (77.0% AI-written)
+✍️ 9,226 lines written by AI, 2,163 lines written by hand (81.01% AI-written)
 
 🔤 112,554,843 Input Tokens, 550,379 Output Tokens
 
@@ -58,12 +58,12 @@ GPT                      9,624 lines         ███████████�
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.0% of written lines came from AI
+🤖 AI-Driven — 81.01% of written lines came from AI
 📝 Concise Prompter — average 60 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 26.16% of changed lines were hand-edited
+🚀 High AI Trust — 22.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 01:13:35 UTC
+ Last Updated on 11/08/2026 01:12:34 UTC
 <!--END_SECTION:waka-->
