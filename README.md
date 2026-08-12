@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2045%20mins-blue?style=flat)
 
@@ -19,51 +19,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
-Go                       3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Other                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Go                       3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Python                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 40 mins       ██████████████░░░░░░░░░░░   57.40 % 
-Codex CLI                7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
+Codex CLI                7 hrs 36 mins       █████████████░░░░░░░░░░░░   52.37 % 
+VS Code                  6 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.63 % 
 
 🐱‍💻 Projects: 
-online_accept            6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
-catlass                  3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-catlass_for_dsl_ci       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-genshin-skills           1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-user_apply_system        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+online_accept            6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
+catlass                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+catlass_for_dsl_ci       1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+user_apply_system        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+genshin-skills           1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 💻 Operating System: 
-Linux                    14 hrs 56 mins      ██████████████████████░░░   88.76 % 
-Mac                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Linux                    12 hrs 9 mins       █████████████████████░░░░   83.70 % 
+Mac                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (51.08%)
+⏱ AI Coding Time: 9 hrs 4 mins (62.49%)
 
-✍️ 9,226 lines written by AI, 2,163 lines written by hand (81.01% AI-written)
+✍️ 10,084 lines written by AI, 1,379 lines written by hand (87.97% AI-written)
 
-🔤 112,554,843 Input Tokens, 550,379 Output Tokens
+🔤 112,673,950 Input Tokens, 574,870 Output Tokens
 
-💵 $626.61 Estimated AI Cost This Week
+💵 $630.30 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 89 AI Prompts
+🧠 7 AI Sessions, 92 AI Prompts
 
-GPT                      9,624 lines         █████████████████████████   100.00 % 
+GPT                      10,488 lines        █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.01% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 22.32% of changed lines were hand-edited
+🤖 AI-Driven — 87.97% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 14.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 01:12:34 UTC
+ Last Updated on 12/08/2026 01:21:06 UTC
 <!--END_SECTION:waka-->
