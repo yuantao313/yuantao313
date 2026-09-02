@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                880 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌆 Daytime                1308 commits        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+🌆 Daytime                1309 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
 🌃 Evening                1217 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
 🌙 Night                  1224 commits        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
 ```
@@ -19,54 +19,55 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Rust                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Python                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-CMake                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-C                        2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Markdown                 6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Python                   4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Rust                     4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+CMake                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Bash                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editors: 
-Codex CLI                13 hrs 32 mins      █████████████░░░░░░░░░░░░   53.93 % 
-VS Code                  10 hrs 57 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
-Codex Vscode             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Codex CLI                19 hrs 17 mins      ████████████████░░░░░░░░░   64.50 % 
+VS Code                  10 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Codex Vscode             34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🐱‍💻 Projects: 
-catlass                  9 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-pico_ubus                4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-pico_ubus_smi            2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-catlass_cleancode        1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-workspace                1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+catlass                  16 hrs 12 mins      ██████████████░░░░░░░░░░░   54.23 % 
+pico_ubus                4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+pico_ubus_smi            2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+catlass_cleancode        1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+pico_ubus_pio_runtime    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Mac                      13 hrs 42 mins      ██████████████░░░░░░░░░░░   54.59 % 
-Linux                    9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
-Windows                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Linux                    16 hrs 45 mins      ██████████████░░░░░░░░░░░   56.02 % 
+Mac                      12 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.22 % 
+Windows                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 21 mins (61.15%)
+⏱ AI Coding Time: 22 hrs 11 mins (74.21%)
 
-✍️ 17,157 lines written by AI, 903 lines written by hand (95.0% AI-written)
+✍️ 17,444 lines written by AI, 530 lines written by hand (97.05% AI-written)
 
-🔤 7,552,712 Input Tokens, 1,019,917 Output Tokens
+🔤 10,928,673 Input Tokens, 1,339,622 Output Tokens
 
-💵 $145.68 Estimated AI Cost This Week
+💵 $182.05 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 154 AI Prompts
+🧠 24 AI Sessions, 315 AI Prompts
 
-GPT                      18,007 lines        █████████████████████████   99.52 % 
-Codex-Cli                87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+GPT                      18,944 lines        █████████████████████████   99.43 % 
+Codex-Cli                87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Codex-Vscode             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.0% of written lines came from AI
-📄 Detailed Prompter — average 652 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 8.96% of changed lines were hand-edited
+🤖 AI-Driven — 97.05% of written lines came from AI
+📚 Verbose Prompter — average 3,757 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 6.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 03:00:55 UTC
+ Last Updated on 02/09/2026 02:23:23 UTC
 <!--END_SECTION:waka-->
