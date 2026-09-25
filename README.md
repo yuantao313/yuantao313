@@ -19,54 +19,55 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
-Python                   4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
-YAML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
+YAML                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 5 mins        ██████████████░░░░░░░░░░░   56.22 % 
-VS Code                  2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-CodeBuddy                2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+VS Code                  3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.35 % 
+Codex Vscode             2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
+CodeBuddy                2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
 
 🐱‍💻 Projects: 
-yuantao313.github.io     5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.43 % 
-actions                  4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
-catlass                  2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-cibot                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-EasyCon                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+yuantao313.github.io     4 hrs 35 mins       ██████████████░░░░░░░░░░░   56.55 % 
+actions                  2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+catlass                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+catlass_vscode           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+cibot                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Mac                      12 hrs 17 mins      ████████████████████████░   97.49 % 
-Windows                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Mac                      7 hrs 23 mins       ███████████████████████░░   91.19 % 
+Linux                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Windows                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 24 mins (90.47%)
+⏱ AI Coding Time: 6 hrs 30 mins (80.27%)
 
-✍️ 2,090 lines written by AI, 301 lines written by hand (87.41% AI-written)
+✍️ 1,133 lines written by AI, 310 lines written by hand (78.52% AI-written)
 
-🔤 5,580,368 Input Tokens, 589,624 Output Tokens
+🔤 3,649,845 Input Tokens, 401,799 Output Tokens
 
-💵 $103.33 Estimated AI Cost This Week
+💵 $78.08 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 122 AI Prompts
+🧠 10 AI Sessions, 99 AI Prompts
 
-GPT                      1,789 lines         ███████████████████░░░░░░   74.70 % 
-CodeBuddy                606 lines           ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+GPT                      1,051 lines         ██████████████████░░░░░░░   73.81 % 
+CodeBuddy                373 lines           ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.41% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 12.85% of changed lines were hand-edited
+🤖 AI-Driven — 78.52% of written lines came from AI
+📝 Concise Prompter — average 133 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 21.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 02:38:56 UTC
+ Last Updated on 25/09/2026 02:56:06 UTC
 <!--END_SECTION:waka-->
