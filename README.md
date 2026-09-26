@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2044%20mins-blue?style=flat)
 
@@ -19,55 +19,55 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
-YAML                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown                 3 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+YAML                     1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.35 % 
-Codex Vscode             2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-CodeBuddy                2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+VS Code                  3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
+Codex Vscode             2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
+CodeBuddy                2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
 
 🐱‍💻 Projects: 
-yuantao313.github.io     4 hrs 35 mins       ██████████████░░░░░░░░░░░   56.55 % 
-actions                  2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-catlass                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-catlass_vscode           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+yuantao313.github.io     4 hrs 35 mins       ██████████████░░░░░░░░░░░   56.45 % 
+actions                  2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.84 % 
+catlass_vscode           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 cibot                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+EasyCon                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      7 hrs 23 mins       ███████████████████████░░   91.19 % 
-Linux                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Mac                      7 hrs 24 mins       ███████████████████████░░   91.21 % 
+Linux                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 Windows                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 30 mins (80.27%)
+⏱ AI Coding Time: 6 hrs 31 mins (80.29%)
 
-✍️ 1,133 lines written by AI, 310 lines written by hand (78.52% AI-written)
+✍️ 1,112 lines written by AI, 310 lines written by hand (78.2% AI-written)
 
-🔤 3,649,845 Input Tokens, 401,799 Output Tokens
+🔤 3,391,020 Input Tokens, 374,265 Output Tokens
 
-💵 $78.08 Estimated AI Cost This Week
+💵 $76.96 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 99 AI Prompts
+🧠 8 AI Sessions, 93 AI Prompts
 
-GPT                      1,051 lines         ██████████████████░░░░░░░   73.81 % 
-CodeBuddy                373 lines           ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+GPT                      873 lines           █████████████████░░░░░░░░   66.85 % 
+CodeBuddy                433 lines           ████████░░░░░░░░░░░░░░░░░   33.15 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.52% of written lines came from AI
-📝 Concise Prompter — average 133 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 21.38% of changed lines were hand-edited
+🤖 AI-Driven — 78.2% of written lines came from AI
+📝 Concise Prompter — average 131 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 22.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 02:56:06 UTC
+ Last Updated on 26/09/2026 02:59:59 UTC
 <!--END_SECTION:waka-->
