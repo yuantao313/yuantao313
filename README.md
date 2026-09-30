@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                880 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-🌆 Daytime                1373 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-🌃 Evening                1233 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-🌙 Night                  1247 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌞 Morning                881 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+🌆 Daytime                1377 commits        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+🌃 Evening                1233 commits        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌙 Night                  1247 commits        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 ```
 
 
@@ -19,50 +19,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   56 mins             █████████░░░░░░░░░░░░░░░░   34.01 % 
-JavaScript               45 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-JSON                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    2 hrs 11 mins       █████████████████░░░░░░░░   66.98 % 
+Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████░░░░░░░░░░░░   51.05 % 
-Codex Vscode             1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.95 % 
+Codex Vscode             1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.49 % 
+VS Code                  59 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Trae                     55 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
 
 🐱‍💻 Projects: 
-actions                  1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.97 % 
-catlass_vscode           59 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
-yuantao313.github.io     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+ban                      2 hrs 10 mins       █████████████████░░░░░░░░   66.30 % 
+catlass_vscode           59 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
+AscendNPU-IR             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+actions                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+yuantao                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        ████████████████░░░░░░░░░   64.18 % 
-Linux                    59 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
+Mac                      2 hrs 17 mins       █████████████████░░░░░░░░   69.71 % 
+Linux                    59 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (51.32%)
+⏱ AI Coding Time: 2 hrs 14 mins (68.28%)
 
-✍️ 131 lines written by AI, 64 lines written by hand (67.18% AI-written)
+✍️ 0 lines written by AI, 403 lines written by hand (0.0% AI-written)
 
-🔤 813,751 Input Tokens, 65,085 Output Tokens
+🔤 1,038,970 Input Tokens, 105,379 Output Tokens
 
-💵 $9.93 Estimated AI Cost This Week
+💵 $61.72 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 33 AI Prompts
+🧠 4 AI Sessions, 126 AI Prompts
 
-GPT                      160 lines           █████████████████████████   100.00 % 
-CodeBuddy                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.18% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 39.85% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 3,296 characters per prompt
+🔁 Iterative Prompter — average 32 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 03:43:27 UTC
+ Last Updated on 30/09/2026 03:28:24 UTC
 <!--END_SECTION:waka-->
