@@ -19,35 +19,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 12 mins       █████████████████░░░░░░░░   67.06 % 
-Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    2 hrs 12 mins       ███████████████████░░░░░░   76.30 % 
+Python                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   41.63 % 
-VS Code                  59 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Trae                     55 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Codex Vscode             1 hr 22 mins        ████████████░░░░░░░░░░░░░   47.36 % 
+Trae                     55 mins             ████████░░░░░░░░░░░░░░░░░   32.03 % 
+VS Code                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 
 🐱‍💻 Projects: 
-ban                      2 hrs 10 mins       █████████████████░░░░░░░░   66.38 % 
-catlass_vscode           59 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
-AscendNPU-IR             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-actions                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-yuantao                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+ban                      2 hrs 10 mins       ███████████████████░░░░░░   75.52 % 
+catlass_vscode           35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+AscendNPU-IR             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+actions                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+yuantao                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████░░░░░░░░   69.79 % 
-Linux                    59 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
+Mac                      2 hrs 17 mins       ████████████████████░░░░░   79.39 % 
+Linux                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (68.36%)
+⏱ AI Coding Time: 2 hrs 14 mins (77.77%)
 
-✍️ 0 lines written by AI, 403 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 394 lines written by hand (0.0% AI-written)
 
 🔤 1,062,433 Input Tokens, 106,075 Output Tokens
 
@@ -66,5 +66,5 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/10/2026 03:34:08 UTC
+ Last Updated on 02/10/2026 03:35:06 UTC
 <!--END_SECTION:waka-->
