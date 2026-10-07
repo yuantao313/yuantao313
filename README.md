@@ -19,51 +19,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 11 mins       ████████████████████████░   95.64 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML                     5 mins              █████████████████████░░░░   82.28 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 22 mins        ███████████████░░░░░░░░░░   59.94 % 
-Trae                     54 mins             ██████████░░░░░░░░░░░░░░░   39.62 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Trae                     5 mins              ████████████████████░░░░░   81.74 % 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Codex Vscode             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🐱‍💻 Projects: 
-ban                      2 hrs 10 mins       ████████████████████████░   95.58 % 
-AscendNPU-IR             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-actions                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+actions                  5 mins              █████████████████████░░░░   82.28 % 
+Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+ban                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+arknights_priv_server    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       █████████████████████████   99.56 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Mac                      5 mins              ███████████████████████░░   90.39 % 
+Windows                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (97.5%)
+⏱ AI Coding Time: 0 secs (7.66%)
 
-✍️ 0 lines written by AI, 376 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,062,433 Input Tokens, 106,075 Output Tokens
+🔤 23,463 Input Tokens, 696 Output Tokens
 
-💵 $62.06 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 125 AI Prompts
-
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,327 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 334 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 04:18:53 UTC
+ Last Updated on 07/10/2026 03:46:19 UTC
 <!--END_SECTION:waka-->
