@@ -6,10 +6,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                889 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-🌆 Daytime                1377 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-🌃 Evening                1234 commits        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-🌙 Night                  1247 commits        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌞 Morning                902 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+🌆 Daytime                1402 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌃 Evening                1253 commits        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌙 Night                  1260 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
 ```
 
 
@@ -19,27 +19,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     5 mins              █████████████████████████   99.46 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+YAML                     59 mins             ██████████████░░░░░░░░░░░   54.47 % 
+JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Trae                     5 mins              █████████████████████████   98.56 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Codex Vscode             1 hr 42 mins        ████████████████████████░   94.18 % 
+Trae                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🐱‍💻 Projects: 
-actions                  5 mins              █████████████████████████   99.46 % 
-arknights_priv_server    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+actions                  1 hr 31 mins        █████████████████████░░░░   84.55 % 
+dev                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+arknights_priv_server    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 43 mins (95.25%)
+
+✍️ 202 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,079,359 Input Tokens, 96,591 Output Tokens
+
+💵 $14.65 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+GPT                      277 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 04:00:15 UTC
+ Last Updated on 09/10/2026 04:06:05 UTC
 <!--END_SECTION:waka-->
