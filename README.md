@@ -6,10 +6,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                919 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌆 Daytime                1398 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌃 Evening                1252 commits        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌙 Night                  1229 commits        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+🌞 Morning                920 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+🌆 Daytime                1404 commits        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+🌃 Evening                1252 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌙 Night                  1229 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
 ```
 
 
@@ -19,46 +19,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               40 mins             ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Bash                     36 mins             ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Other                    25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Other                    25 mins             ██████████████░░░░░░░░░░░   57.30 % 
+JavaScript               18 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 3 mins        █████████████████████████   99.86 % 
-Trae                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Codex Vscode             44 mins             █████████████████████████   99.61 % 
+Trae                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-actions                  1 hr 22 mins        █████████████████░░░░░░░░   66.91 % 
-dev                      40 mins             ████████░░░░░░░░░░░░░░░░░   33.09 % 
+actions                  25 mins             ██████████████░░░░░░░░░░░   57.30 % 
+dev                      18 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
 
 💻 Operating System: 
-Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 44 mins (100.0%)
 
-✍️ 320 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,577,147 Input Tokens, 66,363 Output Tokens
+🔤 208,175 Input Tokens, 20,550 Output Tokens
 
-💵 $5.49 Estimated AI Cost This Week
+💵 $1.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-GPT                      320 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 208 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 448 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 02:43:29 UTC
+ Last Updated on 17/10/2026 02:34:58 UTC
 <!--END_SECTION:waka-->
