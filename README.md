@@ -19,51 +19,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
-Python                   2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Markdown                 3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+Python                   1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 23 mins       ███████████████░░░░░░░░░░   59.30 % 
-Codex Vscode             3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
+VS Code                  4 hrs 54 mins       ███████████████░░░░░░░░░░   60.05 % 
+Codex Vscode             3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.95 % 
 
 🐱‍💻 Projects: 
-actions                  8 hrs 24 mins       ███████████████████████░░   92.59 % 
-dev                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-yuantao313.github.io     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-catlass                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-ops-tensor               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+actions                  7 hrs 29 mins       ███████████████████████░░   91.76 % 
+dev                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+yuantao313.github.io     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+catlass                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+ops-tensor               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  8 hrs 58 mins       █████████████████████████   98.92 % 
-Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Windows                  8 hrs 3 mins        █████████████████████████   98.80 % 
+Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 52 mins (97.79%)
+⏱ AI Coding Time: 7 hrs 57 mins (97.54%)
 
 ✍️ 2,122 lines written by AI, 3 lines written by hand (99.86% AI-written)
 
-🔤 6,682,864 Input Tokens, 436,276 Output Tokens
+🔤 6,548,386 Input Tokens, 404,791 Output Tokens
 
-💵 $37.23 Estimated AI Cost This Week
+💵 $35.47 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 422 AI Prompts
+🧠 25 AI Sessions, 374 AI Prompts
 
 GPT                      2,133 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 5,990 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 5,985 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 02:46:51 UTC
+ Last Updated on 26/10/2026 02:45:49 UTC
 <!--END_SECTION:waka-->
