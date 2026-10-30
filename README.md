@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -19,50 +19,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 12 mins       █████████████████░░░░░░░░   67.29 % 
-Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Other                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   5 hrs 51 mins       ███████████████░░░░░░░░░░   59.78 % 
+Markdown                 2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+CMake                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       ██████████████████░░░░░░░   70.72 % 
-Codex Vscode             2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+VS Code                  6 hrs 43 mins       █████████████████░░░░░░░░   68.52 % 
+Codex Vscode             3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
 
 🐱‍💻 Projects: 
-actions                  6 hrs 53 mins       ██████████████████████░░░   89.09 % 
-catlass                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-dev                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-canndev                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-yuantao313.github.io     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+actions                  7 hrs 32 mins       ███████████████████░░░░░░   76.84 % 
+catlass                  1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+ops-transformer          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+canndev                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  7 hrs 32 mins       ████████████████████████░   97.49 % 
-Mac                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Windows                  9 hrs 42 mins       █████████████████████████   99.02 % 
+Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (91.78%)
+⏱ AI Coding Time: 8 hrs 37 mins (87.98%)
 
-✍️ 1,966 lines written by AI, 27 lines written by hand (98.65% AI-written)
+✍️ 2,300 lines written by AI, 55 lines written by hand (97.66% AI-written)
 
-🔤 6,957,227 Input Tokens, 408,391 Output Tokens
+🔤 7,566,732 Input Tokens, 476,489 Output Tokens
 
-💵 $51.00 Estimated AI Cost This Week
+💵 $57.43 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 70 AI Prompts
+🧠 12 AI Sessions, 94 AI Prompts
 
-GPT                      1,966 lines         █████████████████████████   100.00 % 
+GPT                      2,303 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.91% of changed lines were hand-edited
+🤖 AI-Driven — 97.66% of written lines came from AI
+📝 Concise Prompter — average 170 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 5.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 03:58:41 UTC
+ Last Updated on 30/10/2026 04:01:06 UTC
 <!--END_SECTION:waka-->
